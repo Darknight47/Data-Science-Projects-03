@@ -15,3 +15,8 @@ The bookstore’s data science team wants to **conduct an A/B testing experiment
 The objective here is to Build a personalized dating recommendation system to facilitate meaningful connections!
 
 ---
+## Project 04 🍔🍝🍽️
+### Food Delivery Time Prediction (Food_Delivery_Time_Prediction)
+The objective of this project is to predict the food delivery time based on the distance covered by the delivery partner to deliver the order!  
+
+---
