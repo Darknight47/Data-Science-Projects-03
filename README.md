@@ -20,3 +20,8 @@ The objective here is to Build a personalized dating recommendation system to fa
 The objective of this project is to predict the food delivery time based on the distance covered by the delivery partner to deliver the order!  
 
 ---
+## Project 05 💳💸🏦
+### Predicting and Classifying Credit Scores Using Machine Learning Techniques (Credit_Scoring_Segmentation)
+The project aims to leverage both classification and regression techniques to enable effective credit risk assessment. The combined approach will allow for actionable decision-making through classification and deeper insights through prediction.
+
+---
