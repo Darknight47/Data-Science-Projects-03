@@ -25,3 +25,8 @@ The objective of this project is to predict the food delivery time based on the 
 The project aims to leverage both classification and regression techniques to enable effective credit risk assessment. The combined approach will allow for actionable decision-making through classification and deeper insights through prediction.
 
 ---
+## Project 06 🔤🔠🆒
+### RAG pipline for LLMs
+The The main objective of this project is to build a RAG Pipeline for LLMs using Hugging Face Transformers and Python!    
+
+---
