@@ -25,3 +25,8 @@ The objective of this project is to predict the food delivery time based on the 
 The project aims to leverage both classification and regression techniques to enable effective credit risk assessment. The combined approach will allow for actionable decision-making through classification and deeper insights through prediction.
 
 ---
+## Project 06 🎮🎲💰
+### Predicting Game Sales With Different ML Models (Sales_Prediction)
+In this project, we aim to examine the performance of various machine learning models for predicting sales of video games based on their attributes.
+
+---
