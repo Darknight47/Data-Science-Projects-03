@@ -30,3 +30,8 @@ The project aims to leverage both classification and regression techniques to en
 In this project, we aim to examine the performance of various machine learning models for predicting sales of video games based on their attributes.
 
 ---
+## Project 07 🐈🍪🍩
+### A/B Testing (AorB_Cookie_Cats)
+The primary objective is to evaluate the impact of changing the first gate’s position on early player metrics, including engagement and retention.
+
+---
