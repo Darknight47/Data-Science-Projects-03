@@ -35,8 +35,8 @@ In this project, we aim to examine the performance of various machine learning m
 The primary objective is to evaluate the impact of changing the first gate’s position on early player metrics, including engagement and retention.
 
 ---
-## Project 08 📚🤓📕
-### Book Recommendation System (book_recommendaton)
-The main objective is to develop a Book Recommendation System based on ratings and content information.  
+## Project 08 💳 🧑‍💼📈
+### Customer Satisfaction Analysis 
+The primary goal of this project is to perform a comprehensive analysis of customer satisfaction to identify key factors influencing satisfaction and areas needing improvement!
 
 ---
