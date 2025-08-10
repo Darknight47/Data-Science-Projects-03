@@ -40,3 +40,8 @@ The primary objective is to evaluate the impact of changing the first gate’s p
 The primary goal of this project is to perform a comprehensive analysis of customer satisfaction to identify key factors influencing satisfaction and areas needing improvement!
 
 ---
+## Project 09 🔮🕴️🧙
+### Recommender Guide
+A Machine Learning-based tool that help users discover items they might like, based on data and preferences!
+
+--- 
