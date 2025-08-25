@@ -45,8 +45,3 @@ The primary goal of this project is to perform a comprehensive analysis of custo
 A Machine Learning-based tool that help users discover items they might like, based on data and preferences!
 
 --- 
-## Project 10 🍟💰💱
-How to perform **cost and profitability analysis of a business operation**.  
-**Food Delivery Cost and Profitability Analysis** is a detailed review of how a food delivery service spends and earns money. Its purpose is to find ways to cut unnecessary costs, boost income, and adjust pricing or commission rates so the business can make more profit.
-
----
